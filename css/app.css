@@ -98,6 +98,10 @@ header p {
     left: 20px;
 }
 
+
+.page-footer .row {
+    padding: 0 20px;
+}
 /* utilities */
 
 .flex {
@@ -120,3 +124,6 @@ header p {
     flex-direction: row-reverse;
 }
 
+.align-center {
+    align-items: center;
+}
